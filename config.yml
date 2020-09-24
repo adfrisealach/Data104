@@ -1,0 +1,16 @@
+theme: jekyll-theme-minimal
+
+title: Afrazier - sample github pages site
+
+description: Welcome to Data 104 Social Media Web Analytics
+
+url:  https://username.github.io/repositoryname
+
+author: A. Frazier
+
+plugins:
+
+  - jekyll-seo-tag
+
+
+google_analytics: 'your-tracking ID'
