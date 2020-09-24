@@ -13,4 +13,4 @@ plugins:
   - jekyll-seo-tag
 
 
-google_analytics: UA-179023036-1
+google_analytics: 'UA-179023036-1'
