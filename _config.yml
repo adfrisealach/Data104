@@ -1,5 +1,6 @@
 theme: jekyll-theme-tactile
 title: Data104 - sample site
 url: https://adfrisealach.github.io/Data104/
+description: Sample site for use with Google Analytics in Data 104 at GGU
 author: 
 google_analytics: 'UA-179023036-1'
